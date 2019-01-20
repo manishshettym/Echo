@@ -1,7 +1,7 @@
 # Echo
 Machine Learning model to classify emotions extracted from sound waves
 
-#Git Commandsto work on project:
+# Git Commands to work on project:
 
 1. create a new branch on the remote repository
 2. git fetch && git checkout <new_branch_name>
